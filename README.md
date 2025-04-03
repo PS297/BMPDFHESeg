@@ -5,7 +5,7 @@
 *Comaprison between the segmented images obatined through the propsed BMPDFHESeg method with state-of-the-art methods over DRIVE, STARE, and HRF datasets.*
 
 
-Citation
+# Citation
 @article{sheet2010brightness,
   title={Brightness preserving dynamic fuzzy histogram equalization},
   author={Sheet, Debdoot and Garud, Hrushikesh and Suveer, Amit and Mahadevappa, Manjunatha and Chatterjee, Jyotirmoy},
