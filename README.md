@@ -4,6 +4,10 @@
 
 *Comaprison between the segmented images obatined through the propsed BMPDFHESeg method with state-of-the-art methods over DRIVE, STARE, and HRF datasets.*
 
+# Prerequisites
+  - Win 10
+  - MATLAB
+  - CPU or NVIDIA GPU
 
 # Citation
 @article{sheet2010brightness,
